@@ -18,7 +18,6 @@
 
 from __future__ import annotations
 
-#import sys; sys.path.append('..')
 from fanroots.fanroots import FanRoots
 from fanroots.step_taking import flop, jump
 import numpy as np
