@@ -21,7 +21,6 @@
 #              descent.
 # -----------------------------------------------------------------------------
 
-import numpy as np
 
 def propose_gradient_descent(optimizer):
     """

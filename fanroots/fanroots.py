@@ -34,7 +34,8 @@ plotly_symbols = SymbolValidator.values
 plotly_symbols = [i for i in plotly_symbols if isinstance(i,int) and i<100]
 
 # warnings/logs/debugging
-import sys, traceback
+import sys
+import traceback
 import warnings
 warnings.filterwarnings(
     "ignore",

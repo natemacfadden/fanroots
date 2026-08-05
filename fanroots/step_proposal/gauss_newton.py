@@ -24,8 +24,6 @@
 import numpy as np
 import scipy as sp
 
-import warnings
-import time
 
 def propose_gauss_newton(optimizer):
     """
